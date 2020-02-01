@@ -1,0 +1,17 @@
+mapResource = {
+    ["ResKey_Action_147"] = "veafRadio.lua",
+    ["ResKey_Action_160"] = "mist.lua",
+    ["ResKey_Action_165"] = "dcsUnits.lua",
+    ["ResKey_Action_166"] = "veafAssets.lua",
+    ["ResKey_Action_167"] = "veafSecurity.lua",
+    ["ResKey_Action_168"] = "veafAssetsConfig.lua",
+    ["ResKey_Action_172"] = "veafSecurityConfig.lua",
+    ["ResKey_Action_21"] = "veaf.lua",
+    ["ResKey_Action_219"] = "veafInterpreter.lua",
+    ["ResKey_Action_22"] = "veafMarkers.lua",
+    ["ResKey_Action_28"] = "veafMove.lua",
+    ["ResKey_Action_30"] = "veafUnits.lua",
+    ["ResKey_Action_35"] = "veafCarrierOperations.lua",
+    ["ResKey_Action_378"] = "veafMissionStart.lua",
+    ["ResKey_Action_93"] = "veafNamedPoints.lua",
+} -- end of mapResource
