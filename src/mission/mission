@@ -168,14 +168,14 @@ mission = {
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "TakeOff",
-                                            ["x"] = -198762.26505869,
-                                            ["y"] = 454405.36033421,
+                                            ["x"] = -198829.80011911,
+                                            ["y"] = 454434.70813132,
                                         }, -- end of [1]
                                         [2] = {
                                             ["action"] = "Turning Point",
                                             ["alt"] = 2438.4,
                                             ["alt_type"] = "BARO",
-                                            ["ETA"] = 128.93137883724,
+                                            ["ETA"] = 135.86543365807,
                                             ["ETA_locked"] = false,
                                             ["formation_template"] = "",
                                             ["name"] = "DictKey_WptName_340",
@@ -193,8 +193,8 @@ mission = {
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -198215.86499431,
-                                            ["y"] = 431222.05735219,
+                                            ["x"] = -197903.85075996,
+                                            ["y"] = 430015.34934551,
                                         }, -- end of [2]
                                         [3] = {
                                             ["action"] = "Turning Point",
@@ -240,7 +240,7 @@ mission = {
                                             [3] = 1,
                                             ["name"] = "Texaco11",
                                         }, -- end of ["callsign"]
-                                        ["heading"] = 4.7359533071119,
+                                        ["heading"] = -1.5328958247621,
                                         ["livery_id"] = "usaf standard",
                                         ["name"] = "DictKey_UnitName_335",
                                         ["onboard_num"] = "010",
@@ -254,17 +254,17 @@ mission = {
                                             ["pylons"] = {
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = 1.5472320000677,
+                                        ["psi"] = 1.5328958247621,
                                         ["skill"] = "Excellent",
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "S-3B Tanker",
                                         ["unitId"] = 49,
-                                        ["x"] = -198762.26505869,
-                                        ["y"] = 454405.36033421,
+                                        ["x"] = -198829.80011911,
+                                        ["y"] = 454434.70813132,
                                     }, -- end of [1]
                                 }, -- end of ["units"]
-                                ["x"] = -198762.26505869,
-                                ["y"] = 454405.36033421,
+                                ["x"] = -198829.80011911,
+                                ["y"] = 454434.70813132,
                             }, -- end of [1]
                             [2] = {
                                 ["communication"] = true,
@@ -315,8 +315,8 @@ mission = {
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "TakeOffParkingHot",
-                                            ["x"] = -198762.26505869,
-                                            ["y"] = 454405.36033421,
+                                            ["x"] = -198829.80011911,
+                                            ["y"] = 454434.70813132,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
                                 }, -- end of ["route"]
@@ -341,7 +341,7 @@ mission = {
                                             ["name"] = "Springfield11",
                                         }, -- end of ["callsign"]
                                         ["hardpoint_racks"] = true,
-                                        ["heading"] = 94.396379401422,
+                                        ["heading"] = 105.2148739629,
                                         ["livery_id"] = "French Navy 14F SEM",
                                         ["name"] = "DictKey_UnitName_343",
                                         ["onboard_num"] = "051",
@@ -420,8 +420,8 @@ mission = {
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "FA-18C_hornet",
                                         ["unitId"] = 51,
-                                        ["x"] = -198762.26505869,
-                                        ["y"] = 454405.36033421,
+                                        ["x"] = -198829.80011911,
+                                        ["y"] = 454434.70813132,
                                     }, -- end of [1]
                                     [2] = {
                                         ["AddPropAircraft"] = {
@@ -515,8 +515,8 @@ mission = {
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "FA-18C_hornet",
                                         ["unitId"] = 63,
-                                        ["x"] = -198807.74637292,
-                                        ["y"] = 454438.9973682,
+                                        ["x"] = -198788.67729685,
+                                        ["y"] = 454473.55286698,
                                     }, -- end of [2]
                                     [3] = {
                                         ["AddPropAircraft"] = {
@@ -610,8 +610,8 @@ mission = {
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "FA-18C_hornet",
                                         ["unitId"] = 64,
-                                        ["x"] = -198853.22768715,
-                                        ["y"] = 454472.6344022,
+                                        ["x"] = -198747.55447458,
+                                        ["y"] = 454512.39760265,
                                     }, -- end of [3]
                                     [4] = {
                                         ["AddPropAircraft"] = {
@@ -705,12 +705,12 @@ mission = {
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "FA-18C_hornet",
                                         ["unitId"] = 65,
-                                        ["x"] = -198898.70900138,
-                                        ["y"] = 454506.27143619,
+                                        ["x"] = -198706.43165232,
+                                        ["y"] = 454551.24233831,
                                     }, -- end of [4]
                                 }, -- end of ["units"]
-                                ["x"] = -198762.26505869,
-                                ["y"] = 454405.36033421,
+                                ["x"] = -198829.80011911,
+                                ["y"] = 454434.70813132,
                             }, -- end of [2]
                             [3] = {
                                 ["communication"] = true,
@@ -761,8 +761,8 @@ mission = {
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "TakeOffParking",
-                                            ["x"] = -198762.26505869,
-                                            ["y"] = 454405.36033421,
+                                            ["x"] = -198829.80011911,
+                                            ["y"] = 454434.70813132,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
                                 }, -- end of ["route"]
@@ -787,7 +787,7 @@ mission = {
                                             ["name"] = "Springfield11",
                                         }, -- end of ["callsign"]
                                         ["hardpoint_racks"] = true,
-                                        ["heading"] = 94.396379401422,
+                                        ["heading"] = 105.2148739629,
                                         ["livery_id"] = "French Navy 14F SEM",
                                         ["name"] = "DictKey_UnitName_360",
                                         ["onboard_num"] = "051",
@@ -866,8 +866,8 @@ mission = {
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "FA-18C_hornet",
                                         ["unitId"] = 66,
-                                        ["x"] = -198762.26505869,
-                                        ["y"] = 454405.36033421,
+                                        ["x"] = -198829.80011911,
+                                        ["y"] = 454434.70813132,
                                     }, -- end of [1]
                                     [2] = {
                                         ["AddPropAircraft"] = {
@@ -961,8 +961,8 @@ mission = {
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "FA-18C_hornet",
                                         ["unitId"] = 70,
-                                        ["x"] = -198807.74637292,
-                                        ["y"] = 454438.9973682,
+                                        ["x"] = -198788.67729685,
+                                        ["y"] = 454473.55286698,
                                     }, -- end of [2]
                                     [3] = {
                                         ["AddPropAircraft"] = {
@@ -1056,8 +1056,8 @@ mission = {
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "FA-18C_hornet",
                                         ["unitId"] = 71,
-                                        ["x"] = -198853.22768715,
-                                        ["y"] = 454472.6344022,
+                                        ["x"] = -198747.55447458,
+                                        ["y"] = 454512.39760265,
                                     }, -- end of [3]
                                     [4] = {
                                         ["AddPropAircraft"] = {
@@ -1151,12 +1151,12 @@ mission = {
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "FA-18C_hornet",
                                         ["unitId"] = 72,
-                                        ["x"] = -198898.70900138,
-                                        ["y"] = 454506.27143619,
+                                        ["x"] = -198706.43165232,
+                                        ["y"] = 454551.24233831,
                                     }, -- end of [4]
                                 }, -- end of ["units"]
-                                ["x"] = -198762.26505869,
-                                ["y"] = 454405.36033421,
+                                ["x"] = -198829.80011911,
+                                ["y"] = 454434.70813132,
                             }, -- end of [3]
                             [4] = {
                                 ["communication"] = true,
@@ -1205,14 +1205,14 @@ mission = {
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -202240.94090559,
-                                            ["y"] = 475144.71281084,
+                                            ["x"] = -179448.93423743,
+                                            ["y"] = 455061.30748323,
                                         }, -- end of [1]
                                         [2] = {
                                             ["action"] = "Turning Point",
                                             ["alt"] = 243.84,
                                             ["alt_type"] = "BARO",
-                                            ["ETA"] = 63.629535616441,
+                                            ["ETA"] = 135.1934380305,
                                             ["ETA_locked"] = false,
                                             ["formation_template"] = "",
                                             ["name"] = "DictKey_WptName_377",
@@ -1230,8 +1230,8 @@ mission = {
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -198176.40745548,
-                                            ["y"] = 450243.60558202,
+                                            ["x"] = -198280.4817094,
+                                            ["y"] = 454119.73010963,
                                         }, -- end of [2]
                                     }, -- end of ["points"]
                                 }, -- end of ["route"]
@@ -1256,7 +1256,7 @@ mission = {
                                             ["name"] = "Springfield11",
                                         }, -- end of ["callsign"]
                                         ["hardpoint_racks"] = true,
-                                        ["heading"] = -1.4089961908982,
+                                        ["heading"] = -3.0916342578678,
                                         ["livery_id"] = "French Navy 14F SEM",
                                         ["name"] = "DictKey_UnitName_369",
                                         ["onboard_num"] = "051",
@@ -1278,7 +1278,7 @@ mission = {
                                                 }, -- end of [9]
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = 1.4089961908982,
+                                        ["psi"] = 3.0916342578678,
                                         ["Radio"] = {
                                             [1] = {
                                                 ["channels"] = {
@@ -1333,8 +1333,8 @@ mission = {
                                         ["speed"] = 179.86111111111,
                                         ["type"] = "FA-18C_hornet",
                                         ["unitId"] = 73,
-                                        ["x"] = -202240.94090559,
-                                        ["y"] = 475144.71281084,
+                                        ["x"] = -179448.93423743,
+                                        ["y"] = 455061.30748323,
                                     }, -- end of [1]
                                     [2] = {
                                         ["AddPropAircraft"] = {
@@ -1349,7 +1349,7 @@ mission = {
                                             [3] = 2,
                                             ["name"] = "Springfield12",
                                         }, -- end of ["callsign"]
-                                        ["heading"] = -1.4089961908982,
+                                        ["heading"] = -3.0916342578678,
                                         ["livery_id"] = "French Navy 14F SEM",
                                         ["name"] = "DictKey_UnitName_374",
                                         ["onboard_num"] = "058",
@@ -1371,7 +1371,7 @@ mission = {
                                                 }, -- end of [9]
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = 1.4089961908982,
+                                        ["psi"] = 3.0916342578678,
                                         ["Radio"] = {
                                             [1] = {
                                                 ["channels"] = {
@@ -1426,8 +1426,8 @@ mission = {
                                         ["speed"] = 179.86111111111,
                                         ["type"] = "FA-18C_hornet",
                                         ["unitId"] = 77,
-                                        ["x"] = -202280.94090559,
-                                        ["y"] = 475184.71281084,
+                                        ["x"] = -179488.93423743,
+                                        ["y"] = 455101.30748323,
                                     }, -- end of [2]
                                     [3] = {
                                         ["AddPropAircraft"] = {
@@ -1442,7 +1442,7 @@ mission = {
                                             [3] = 3,
                                             ["name"] = "Springfield13",
                                         }, -- end of ["callsign"]
-                                        ["heading"] = -1.4089961908982,
+                                        ["heading"] = -3.0916342578678,
                                         ["livery_id"] = "French Navy 14F SEM",
                                         ["name"] = "DictKey_UnitName_375",
                                         ["onboard_num"] = "059",
@@ -1464,7 +1464,7 @@ mission = {
                                                 }, -- end of [9]
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = 1.4089961908982,
+                                        ["psi"] = 3.0916342578678,
                                         ["Radio"] = {
                                             [1] = {
                                                 ["channels"] = {
@@ -1519,8 +1519,8 @@ mission = {
                                         ["speed"] = 179.86111111111,
                                         ["type"] = "FA-18C_hornet",
                                         ["unitId"] = 78,
-                                        ["x"] = -202320.94090559,
-                                        ["y"] = 475224.71281084,
+                                        ["x"] = -179528.93423743,
+                                        ["y"] = 455141.30748323,
                                     }, -- end of [3]
                                     [4] = {
                                         ["AddPropAircraft"] = {
@@ -1535,7 +1535,7 @@ mission = {
                                             [3] = 4,
                                             ["name"] = "Springfield14",
                                         }, -- end of ["callsign"]
-                                        ["heading"] = -1.4089961908982,
+                                        ["heading"] = -3.0916342578678,
                                         ["livery_id"] = "French Navy 14F SEM",
                                         ["name"] = "DictKey_UnitName_376",
                                         ["onboard_num"] = "060",
@@ -1557,7 +1557,7 @@ mission = {
                                                 }, -- end of [9]
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = 1.4089961908982,
+                                        ["psi"] = 3.0916342578678,
                                         ["Radio"] = {
                                             [1] = {
                                                 ["channels"] = {
@@ -1612,12 +1612,12 @@ mission = {
                                         ["speed"] = 179.86111111111,
                                         ["type"] = "FA-18C_hornet",
                                         ["unitId"] = 79,
-                                        ["x"] = -202360.94090559,
-                                        ["y"] = 475264.71281084,
+                                        ["x"] = -179568.93423743,
+                                        ["y"] = 455181.30748323,
                                     }, -- end of [4]
                                 }, -- end of ["units"]
-                                ["x"] = -202240.94090559,
-                                ["y"] = 475144.71281084,
+                                ["x"] = -179448.93423743,
+                                ["y"] = 455061.30748323,
                             }, -- end of [4]
                             [5] = {
                                 ["communication"] = true,
@@ -1673,7 +1673,7 @@ mission = {
                                             ["action"] = "Turning Point",
                                             ["alt"] = 7620,
                                             ["alt_type"] = "BARO",
-                                            ["ETA"] = 640.93933870654,
+                                            ["ETA"] = 633.10953730063,
                                             ["ETA_locked"] = false,
                                             ["formation_template"] = "",
                                             ["name"] = "DictKey_WptName_386",
@@ -1691,8 +1691,8 @@ mission = {
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -241265.99439652,
-                                            ["y"] = 424303.46201658,
+                                            ["x"] = -245171.03491461,
+                                            ["y"] = 441314.27782869,
                                         }, -- end of [2]
                                     }, -- end of ["points"]
                                 }, -- end of ["route"]
@@ -1717,7 +1717,7 @@ mission = {
                                             ["name"] = "Springfield11",
                                         }, -- end of ["callsign"]
                                         ["hardpoint_racks"] = true,
-                                        ["heading"] = -2.7491820769191,
+                                        ["heading"] = -2.8580308757656,
                                         ["livery_id"] = "French Navy 14F SEM",
                                         ["name"] = "DictKey_UnitName_381",
                                         ["onboard_num"] = "051",
@@ -1739,7 +1739,7 @@ mission = {
                                                 }, -- end of [9]
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = 2.7491820769191,
+                                        ["psi"] = 2.8580308757656,
                                         ["Radio"] = {
                                             [1] = {
                                                 ["channels"] = {
@@ -1810,7 +1810,7 @@ mission = {
                                             [3] = 2,
                                             ["name"] = "Springfield12",
                                         }, -- end of ["callsign"]
-                                        ["heading"] = -2.7491820769191,
+                                        ["heading"] = -2.8580308757656,
                                         ["livery_id"] = "French Navy 14F SEM",
                                         ["name"] = "DictKey_UnitName_403",
                                         ["onboard_num"] = "064",
@@ -1832,7 +1832,7 @@ mission = {
                                                 }, -- end of [9]
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = 2.7491820769191,
+                                        ["psi"] = 2.8580308757656,
                                         ["Radio"] = {
                                             [1] = {
                                                 ["channels"] = {
@@ -1903,7 +1903,7 @@ mission = {
                                             [3] = 3,
                                             ["name"] = "Springfield13",
                                         }, -- end of ["callsign"]
-                                        ["heading"] = -2.7491820769191,
+                                        ["heading"] = -2.8580308757656,
                                         ["livery_id"] = "French Navy 14F SEM",
                                         ["name"] = "DictKey_UnitName_404",
                                         ["onboard_num"] = "065",
@@ -1925,7 +1925,7 @@ mission = {
                                                 }, -- end of [9]
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = 2.7491820769191,
+                                        ["psi"] = 2.8580308757656,
                                         ["Radio"] = {
                                             [1] = {
                                                 ["channels"] = {
@@ -1996,7 +1996,7 @@ mission = {
                                             [3] = 4,
                                             ["name"] = "Springfield14",
                                         }, -- end of ["callsign"]
-                                        ["heading"] = -2.7491820769191,
+                                        ["heading"] = -2.8580308757656,
                                         ["livery_id"] = "French Navy 14F SEM",
                                         ["name"] = "DictKey_UnitName_405",
                                         ["onboard_num"] = "066",
@@ -2018,7 +2018,7 @@ mission = {
                                                 }, -- end of [9]
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = 2.7491820769191,
+                                        ["psi"] = 2.8580308757656,
                                         ["Radio"] = {
                                             [1] = {
                                                 ["channels"] = {
@@ -2127,14 +2127,14 @@ mission = {
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -207703.78469963,
-                                            ["y"] = 510966.62166515,
+                                            ["x"] = -138207.84527382,
+                                            ["y"] = 464100.45026978,
                                         }, -- end of [1]
                                         [2] = {
                                             ["action"] = "Turning Point",
                                             ["alt"] = 243.84,
                                             ["alt_type"] = "BARO",
-                                            ["ETA"] = 1132.1243926048,
+                                            ["ETA"] = 334.0454503623,
                                             ["ETA_locked"] = false,
                                             ["formation_template"] = "",
                                             ["name"] = "DictKey_WptName_402",
@@ -2152,8 +2152,8 @@ mission = {
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -176383.89057216,
-                                            ["y"] = 309075.68200063,
+                                            ["x"] = -197715.53528524,
+                                            ["y"] = 455814.56938211,
                                         }, -- end of [2]
                                     }, -- end of ["points"]
                                 }, -- end of ["route"]
@@ -2178,7 +2178,7 @@ mission = {
                                             ["name"] = "Springfield11",
                                         }, -- end of ["callsign"]
                                         ["hardpoint_racks"] = true,
-                                        ["heading"] = -1.4168904060727,
+                                        ["heading"] = -3.0032416834126,
                                         ["livery_id"] = "French Navy 14F SEM",
                                         ["name"] = "DictKey_UnitName_397",
                                         ["onboard_num"] = "051",
@@ -2200,7 +2200,7 @@ mission = {
                                                 }, -- end of [9]
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = 1.4168904060727,
+                                        ["psi"] = 3.0032416834126,
                                         ["Radio"] = {
                                             [1] = {
                                                 ["channels"] = {
@@ -2255,8 +2255,8 @@ mission = {
                                         ["speed"] = 179.86111111111,
                                         ["type"] = "FA-18C_hornet",
                                         ["unitId"] = 84,
-                                        ["x"] = -207703.78469963,
-                                        ["y"] = 510966.62166515,
+                                        ["x"] = -138207.84527382,
+                                        ["y"] = 464100.45026978,
                                     }, -- end of [1]
                                     [2] = {
                                         ["AddPropAircraft"] = {
@@ -2271,7 +2271,7 @@ mission = {
                                             [3] = 2,
                                             ["name"] = "Springfield12",
                                         }, -- end of ["callsign"]
-                                        ["heading"] = -1.4168904060727,
+                                        ["heading"] = -3.0032416834126,
                                         ["livery_id"] = "French Navy 14F SEM",
                                         ["name"] = "DictKey_UnitName_406",
                                         ["onboard_num"] = "067",
@@ -2293,7 +2293,7 @@ mission = {
                                                 }, -- end of [9]
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = 1.4168904060727,
+                                        ["psi"] = 3.0032416834126,
                                         ["Radio"] = {
                                             [1] = {
                                                 ["channels"] = {
@@ -2348,8 +2348,8 @@ mission = {
                                         ["speed"] = 179.86111111111,
                                         ["type"] = "FA-18C_hornet",
                                         ["unitId"] = 91,
-                                        ["x"] = -207743.78469963,
-                                        ["y"] = 511006.62166515,
+                                        ["x"] = -138247.84527382,
+                                        ["y"] = 464140.45026978,
                                     }, -- end of [2]
                                     [3] = {
                                         ["AddPropAircraft"] = {
@@ -2364,7 +2364,7 @@ mission = {
                                             [3] = 3,
                                             ["name"] = "Springfield13",
                                         }, -- end of ["callsign"]
-                                        ["heading"] = -1.4168904060727,
+                                        ["heading"] = -3.0032416834126,
                                         ["livery_id"] = "French Navy 14F SEM",
                                         ["name"] = "DictKey_UnitName_407",
                                         ["onboard_num"] = "068",
@@ -2386,7 +2386,7 @@ mission = {
                                                 }, -- end of [9]
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = 1.4168904060727,
+                                        ["psi"] = 3.0032416834126,
                                         ["Radio"] = {
                                             [1] = {
                                                 ["channels"] = {
@@ -2441,8 +2441,8 @@ mission = {
                                         ["speed"] = 179.86111111111,
                                         ["type"] = "FA-18C_hornet",
                                         ["unitId"] = 92,
-                                        ["x"] = -207783.78469963,
-                                        ["y"] = 511046.62166515,
+                                        ["x"] = -138287.84527382,
+                                        ["y"] = 464180.45026978,
                                     }, -- end of [3]
                                     [4] = {
                                         ["AddPropAircraft"] = {
@@ -2457,7 +2457,7 @@ mission = {
                                             [3] = 4,
                                             ["name"] = "Springfield14",
                                         }, -- end of ["callsign"]
-                                        ["heading"] = -1.4168904060727,
+                                        ["heading"] = -3.0032416834126,
                                         ["livery_id"] = "French Navy 14F SEM",
                                         ["name"] = "DictKey_UnitName_408",
                                         ["onboard_num"] = "069",
@@ -2479,7 +2479,7 @@ mission = {
                                                 }, -- end of [9]
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = 1.4168904060727,
+                                        ["psi"] = 3.0032416834126,
                                         ["Radio"] = {
                                             [1] = {
                                                 ["channels"] = {
@@ -2534,12 +2534,12 @@ mission = {
                                         ["speed"] = 179.86111111111,
                                         ["type"] = "FA-18C_hornet",
                                         ["unitId"] = 93,
-                                        ["x"] = -207823.78469963,
-                                        ["y"] = 511086.62166515,
+                                        ["x"] = -138327.84527382,
+                                        ["y"] = 464220.45026978,
                                     }, -- end of [4]
                                 }, -- end of ["units"]
-                                ["x"] = -207703.78469963,
-                                ["y"] = 510966.62166515,
+                                ["x"] = -138207.84527382,
+                                ["y"] = 464100.45026978,
                             }, -- end of [6]
                         }, -- end of ["group"]
                     }, -- end of ["plane"]
@@ -2559,7 +2559,7 @@ mission = {
                                             ["ETA_locked"] = true,
                                             ["formation_template"] = "",
                                             ["name"] = "DictKey_WptName_323",
-                                            ["speed"] = 0,
+                                            ["speed"] = 9.25,
                                             ["speed_locked"] = true,
                                             ["task"] = {
                                                 ["id"] = "ComboTask",
@@ -2614,11 +2614,11 @@ mission = {
                                             ["action"] = "Turning Point",
                                             ["alt"] = 0,
                                             ["alt_type"] = "BARO",
-                                            ["ETA"] = 47083.771019967,
+                                            ["ETA"] = 16625.888603011,
                                             ["ETA_locked"] = false,
                                             ["formation_template"] = "",
                                             ["name"] = "DictKey_WptName_379",
-                                            ["speed"] = 7.1944444444444,
+                                            ["speed"] = 9.25,
                                             ["speed_locked"] = true,
                                             ["task"] = {
                                                 ["id"] = "ComboTask",
@@ -2628,8 +2628,8 @@ mission = {
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -148631.87477983,
-                                            ["y"] = 119439.87190896,
+                                            ["x"] = -352510.85550484,
+                                            ["y"] = 458827.61697763,
                                         }, -- end of [2]
                                     }, -- end of ["points"]
                                 }, -- end of ["route"]
@@ -2640,7 +2640,7 @@ mission = {
                                 ["units"] = {
                                     [1] = {
                                         ["frequency"] = 305000000,
-                                        ["heading"] = 4.8609887741083,
+                                        ["heading"] = 3.1131127212267,
                                         ["modulation"] = 0,
                                         ["name"] = "DictKey_UnitName_322",
                                         ["skill"] = "Average",
@@ -2654,7 +2654,7 @@ mission = {
                                     }, -- end of [1]
                                     [2] = {
                                         ["frequency"] = 127500000,
-                                        ["heading"] = 4.8609887741083,
+                                        ["heading"] = 3.1131127212267,
                                         ["modulation"] = 0,
                                         ["name"] = "DictKey_UnitName_331",
                                         ["skill"] = "Average",
@@ -2668,7 +2668,7 @@ mission = {
                                     }, -- end of [2]
                                     [3] = {
                                         ["frequency"] = 127500000,
-                                        ["heading"] = 4.8609887741083,
+                                        ["heading"] = 3.1131127212267,
                                         ["modulation"] = 0,
                                         ["name"] = "DictKey_UnitName_332",
                                         ["skill"] = "Average",
@@ -2682,7 +2682,7 @@ mission = {
                                     }, -- end of [3]
                                     [4] = {
                                         ["frequency"] = 127500000,
-                                        ["heading"] = 4.8609887741083,
+                                        ["heading"] = 3.1131127212267,
                                         ["modulation"] = 0,
                                         ["name"] = "DictKey_UnitName_333",
                                         ["skill"] = "Average",
@@ -2918,9 +2918,9 @@ mission = {
             [10] = 47,
         }, -- end of ["red"]
     }, -- end of ["coalitions"]
-    ["currentKey"] = 12256,
+    ["currentKey"] = 12753,
     ["date"] = {
-        ["Day"] = 23,
+        ["Day"] = 8,
         ["Month"] = 5,
         ["Year"] = 2011,
     }, -- end of ["date"]
@@ -9755,9 +9755,9 @@ mission = {
         }, -- end of ["roles"]
     }, -- end of ["groundControl"]
     ["map"] = {
-        ["centerX"] = -204420.15704049,
-        ["centerY"] = 461751.27923653,
-        ["zoom"] = 131079.19781998,
+        ["centerX"] = -199127.90134564,
+        ["centerY"] = 425495.77795224,
+        ["zoom"] = 659104.16151894,
     }, -- end of ["map"]
     ["maxDictId"] = 408,
     ["pictureFileNameB"] = {
@@ -9796,7 +9796,7 @@ mission = {
         ["total"] = 1,
     }, -- end of ["result"]
     ["sortie"] = "DictKey_sortie_5",
-    ["start_time"] = 36000,
+    ["start_time"] = 28800,
     ["theatre"] = "Caucasus",
     ["trig"] = {
         ["actions"] = {
@@ -10000,37 +10000,37 @@ mission = {
     }, -- end of ["trigrules"]
     ["version"] = 16,
     ["weather"] = {
-        ["atmosphere_type"] = 0,
+        ["atmosphere_type"] = 1,
         ["clouds"] = {
-            ["base"] = 4500,
-            ["density"] = 7,
+            ["base"] = 2100,
+            ["density"] = 3,
             ["iprecptns"] = 0,
-            ["thickness"] = 1100,
+            ["thickness"] = 1600,
         }, -- end of ["clouds"]
         ["cyclones"] = {
             [1] = {
-                ["centerX"] = -52078.955386944,
-                ["centerZ"] = 226317.02672821,
-                ["ellipticity"] = 0.54761928365809,
-                ["pressure_excess"] = -1327.8489900407,
-                ["pressure_spread"] = 865875.66185017,
-                ["rotation"] = -0.065585436041976,
+                ["centerX"] = 300000,
+                ["centerZ"] = -900000,
+                ["ellipticity"] = 1,
+                ["pressure_excess"] = -1311,
+                ["pressure_spread"] = 895563.55565682,
+                ["rotation"] = -0.2538764493966,
             }, -- end of [1]
             [2] = {
-                ["centerX"] = -60875.049514612,
-                ["centerZ"] = -864112.01092605,
-                ["ellipticity"] = 1.0590196055576,
-                ["pressure_excess"] = -1374.2001835403,
-                ["pressure_spread"] = 646745.33599321,
-                ["rotation"] = 1.2954634296446,
+                ["centerX"] = -1000000,
+                ["centerZ"] = 1800000,
+                ["ellipticity"] = 1,
+                ["pressure_excess"] = -1704,
+                ["pressure_spread"] = 879834.34389462,
+                ["rotation"] = -0.2538764493966,
             }, -- end of [2]
             [3] = {
-                ["centerX"] = -640824.56012978,
-                ["centerZ"] = 1137265.5916558,
-                ["ellipticity"] = 0.89635219132085,
-                ["pressure_excess"] = -938.57166284129,
-                ["pressure_spread"] = 871903.00765166,
-                ["rotation"] = -0.0061352048077511,
+                ["centerX"] = 900000,
+                ["centerZ"] = -2100000,
+                ["ellipticity"] = 1,
+                ["pressure_excess"] = -1704,
+                ["pressure_spread"] = 879834.34389462,
+                ["rotation"] = -0.2538764493966,
             }, -- end of [3]
         }, -- end of ["cyclones"]
         ["dust_density"] = 0,
@@ -10040,16 +10040,16 @@ mission = {
             ["thickness"] = 0,
             ["visibility"] = 0,
         }, -- end of ["fog"]
-        ["groundTurbulence"] = 0.9144,
-        ["name"] = "Spring, Clear sky",
+        ["groundTurbulence"] = 0,
+        ["name"] = "VEAF - realistic 3 cyclones and fog in Winter",
         ["name_cn"] = "春季 晴天",
         ["name_de"] = "Frühling, Klar",
         ["name_es"] = "Primavera. Despejado",
         ["name_fr"] = "Printemps, ciel dégagé",
         ["name_ru"] = "Весна. Штиль",
-        ["qnh"] = 775,
+        ["qnh"] = 760,
         ["season"] = {
-            ["temperature"] = 21,
+            ["temperature"] = 15,
         }, -- end of ["season"]
         ["type_weather"] = 0,
         ["visibility"] = {
@@ -10057,16 +10057,16 @@ mission = {
         }, -- end of ["visibility"]
         ["wind"] = {
             ["at2000"] = {
-                ["dir"] = 135,
-                ["speed"] = 12.885,
+                ["dir"] = 53,
+                ["speed"] = 8,
             }, -- end of ["at2000"]
             ["at8000"] = {
-                ["dir"] = 49,
-                ["speed"] = 15.9774,
+                ["dir"] = 23,
+                ["speed"] = 15,
             }, -- end of ["at8000"]
             ["atGround"] = {
-                ["dir"] = 89.999990748426,
-                ["speed"] = 4,
+                ["dir"] = 275,
+                ["speed"] = 2,
             }, -- end of ["atGround"]
         }, -- end of ["wind"]
     }, -- end of ["weather"]
