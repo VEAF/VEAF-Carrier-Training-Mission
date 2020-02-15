@@ -23,5 +23,7 @@ veafCarrierOperations.initialize()
 veafNamedPoints.initialize()
 veafSecurity.initialize()
 veafInterpreter.initialize()
+veafSpawn.initialize()
+
 -- start carrier ops in 5 seconds
 mist.scheduleFunction(veafCarrierOperations.startCarrierOperations,{{ "CSG-74 Stennis", 999 }},timer.getTime() + 5)
