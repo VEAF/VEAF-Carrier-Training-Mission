@@ -3,5 +3,5 @@
 /node_modules/
 /7za.exe
 /setup_*.cmd
-/build_*.cmd
 package-lock.json
+TODO.txt
