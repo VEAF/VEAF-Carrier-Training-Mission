@@ -10,6 +10,6 @@
     "url": "git+https://github.com/VEAF/VEAF-Carrier-Training-Mission"
   },
   "dependencies": {
-    "veaf-mission-creation-tools": "^1.11.1"
+    "veaf-mission-creation-tools": "^2.0.4"
   }
 }
